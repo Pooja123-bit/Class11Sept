@@ -14,5 +14,5 @@ write a function to install package.skeleton(packs <- c("tidyverse","stringr","p
                                                }
 #read-in data from a text file ----
 file <- list.files(full.names = TRUE, pattern = ",txt")
-
+1
                                              
